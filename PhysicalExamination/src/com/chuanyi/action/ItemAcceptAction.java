@@ -69,5 +69,14 @@ public class ItemAcceptAction {
 		int result = officeServiceImp.addOffice(officeInfo);
 		return result;
 	}
-
+public @ResponseBody int queryItemAccept(HttpServletRequest request, HttpServletResponse response, Item) {
+		int result = officeServiceImp.addOffice(officeInfo);
+		return result;
+	}public @ResponseBody int queryItemAccept(HttpServletRequest request, HttpServletResponse response, Item) {
+		int result = officeServiceImp.addOffice(officeInfo);
+		return result;
+	}public @ResponseBody int queryItemAccept(HttpServletRequest request, HttpServletResponse response, Item) {
+		int result = officeServiceImp.addOffice(officeInfo);
+		return result;
+	}
 }
