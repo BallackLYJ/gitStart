@@ -28,5 +28,46 @@ public class ItemAcceptAction {
 		int result = officeServiceImp.addOffice(officeInfo);
 		return result;
 	}
+	
+	/*
+	 * 查询项目
+	 */
+	@RequestMapping(value = "/queryItemAccept.action", method = RequestMethod.POST, produces="application/json;charset=utf-8")
+	public @ResponseBody int queryItemAccept(HttpServletRequest request, HttpServletResponse response, Item) {
+		int result = officeServiceImp.addOffice(officeInfo);
+		return result;
+	}
+	/*
+	 * 查询项目
+	 */
+	@RequestMapping(value = "/queryItemAccept.action", method = RequestMethod.POST, produces="application/json;charset=utf-8")
+	public @ResponseBody int queryItemAccept(HttpServletRequest request, HttpServletResponse response, Item) {
+		int result = officeServiceImp.addOffice(officeInfo);
+		return result;
+	}
+	/*
+	 * 查询项目
+	 */
+	@RequestMapping(value = "/queryItemAccept.action", method = RequestMethod.POST, produces="application/json;charset=utf-8")
+	public @ResponseBody int queryItemAccept(HttpServletRequest request, HttpServletResponse response, Item) {
+		int result = officeServiceImp.addOffice(officeInfo);
+		return result;
+	}
+	/*
+	 * 查询项目
+	 */
+	@RequestMapping(value = "/queryItemAccept.action", method = RequestMethod.POST, produces="application/json;charset=utf-8")
+	public @ResponseBody int queryItemAccept(HttpServletRequest request, HttpServletResponse response, Item) {
+		int result = officeServiceImp.addOffice(officeInfo);
+		return result;
+	}
+	/*
+	 * 查询项目
+	 */
+	@RequestMapping(value = "/queryItemAccept.action", method = RequestMethod.POST, produces="application/json;charset=utf-8")
+	public @ResponseBody int queryItemAccept(HttpServletRequest request, HttpServletResponse response, Item) {
+		int result = officeServiceImp.addOffice(officeInfo);
+		return result;
+	}
 
 }
